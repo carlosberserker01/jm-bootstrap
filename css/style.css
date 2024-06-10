@@ -1,3 +1,13 @@
+/* Custom Properties */
+
+/* Reset Styles */
+
+/* Bootstrap Styles */
+
+/* My Styles */
+
+
+
 /* X-Small devices (portrait phones, less than 576px)
 No media query for `xs` since this is the default in Bootstrap */
 
@@ -26,7 +36,7 @@ No media query for `xs` since this is the default in Bootstrap */
   
 }
 
-.table-striped > tbody > tr:nth-of-type(odd) > * {
+/* .table-striped > tbody > tr:nth-of-type(odd) > * {
   --bs-table-color-type: var(--bs-table-striped-color);
   --bs-table-bg-type: var(--bs-table-striped-bg);
-}
+} */
